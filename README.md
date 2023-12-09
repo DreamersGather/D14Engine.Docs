@@ -3,8 +3,8 @@
 [![Documentation Status](https://readthedocs.org/projects/d14engine/badge/?version=latest)](https://d14std.io/projects/engine/en/latest/?badge=latest)
 
 <table><tr>
-<td><img src="https://media.githubusercontent.com/media/DreamersGather/D14Engine.Res/main/logo.png" height=41></td>
-<td><img src="https://media.githubusercontent.com/media/DreamersGather/D14Docs.Res/main/logo.png" height=41></td>
+<td><img src="https://media.githubusercontent.com/media/DreamersGather/D14Engine.Res/main/logo.png" height="41"/></td>
+<td><img src="https://media.githubusercontent.com/media/DreamersGather/D14Docs.Res/main/logo.png" height="41"/></td>
 </tr></table>
 
 D14Engine.Docs 是 D14Engine 项目的开发文档。
