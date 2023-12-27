@@ -9,30 +9,26 @@
 
 This repository maintains the development documentation of [D14Engine](https://github.com/DreamersGather/D14Engine) project.
 
-## Edit
-
-We have included `.vscode` directory in the repository, and thus it is recommended to use VS Code to edit the documentation. In addition, it is convenient to preview every page with **reStructuredText** extension installed in VS Code.
-
 ## Build
 
-Install dependencies (`requirements.txt` is located in the root directory of the project):
+Change to `documents`.
+
+Install dependencies:
 
 ```
 > pip install sphinx
 > pip install -r requirements.txt
 ```
 
-Generate documentation:
+Make/Open documentation:
 
 ```
-> make html
+> make [ html | open ]
 ```
 
-Open documentation (in the default browser):
+## Edit
 
-```
-> make open
-```
+We have included `.vscode` directory in the repository, and thus it is recommended to use VS Code to edit the documentation. In addition, it is convenient to preview every page with **reStructuredText** extension installed in VS Code.
 
 ## About
 
