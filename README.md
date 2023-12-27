@@ -11,16 +11,14 @@ This repository maintains the development documentation of [D14Engine](https://g
 
 ## Build
 
-Change to `documents`.
-
-Install dependencies:
+First change to `documents`, and install dependencies:
 
 ```
 > pip install sphinx
 > pip install -r requirements.txt
 ```
 
-Make/Open documentation:
+Make/Open the documentation (in the default browser):
 
 ```
 > make [ html | open ]
